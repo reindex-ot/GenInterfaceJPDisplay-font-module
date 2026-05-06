@@ -1,4 +1,4 @@
-# GenInterfaceJP Display Font Module
+# Gen Interface JP Display Font Module
 
 Android のシステムフォントを [Gen Interface JP Display](https://github.com/yamatoiizuka/gen-interface-jp) に置き換えます。<br>
 ColorOS 系の置き換えも対応させていますが、HyperOS 3.0 でのみテストしています。
