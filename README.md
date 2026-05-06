@@ -8,5 +8,8 @@ Gen Interface JP とは [NotoSans JP](https://github.com/notofonts/noto-cjk) に
 #### 使用方法
 Magisk モジュールに対応した root ソリューションを使用してモジュールのインストールを行ってください。
 
+## 既存の問題
+HyperOS で Webview のテキストが MiSans のままになる場合があります。
+
 ## フォントのライセンス
 Gen Interface JP は MIT License、SIL Open Font License 1.1 の各ライセンスに基づいています。
